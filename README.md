@@ -4,7 +4,7 @@ Flutter user interface application it Glorifys the places of Shimoga ,it is a ve
 ➊ top sightseeing places in shimoga district 
 ➋ description of the respective tourist destination
 ➌ estimation of the distance between the sightseeing places from city
-➍ ➎
+➍ beautiful design
 # Vedio Preview
 https://user-images.githubusercontent.com/112925756/191537022-065492f2-20a2-4224-95ce-06154a168a36.mp4
 # Screenshot
